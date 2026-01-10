@@ -12,23 +12,30 @@ To install a custom language pack, simply use the `.dllangpack` command followed
 
 ---
 
-## 🌍 Standard Languages
-
-| Flag | Language | File | Install |
-| :---: | :--- | :---: | :--- |
-| 🇨🇳 | **Chinese** | `cn.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/cn.yml` |
-| 🇩🇪 | **German** | `de.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/de.yml` |
-| 🇺🇸 | **English** | `en.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/en.yml` |
-| 🇫🇷 | **French** | `fr.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/fr.yml` |
-| 🇯🇵 | **Japanese** | `jp.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/jp.yml` |
-| 🇷🇺 | **Russian** | `ru.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/ru.yml` |
-| 🇺🇦 | **Ukrainian** | `ua.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/ua.yml` |
-
----
-
 ## 🎭 Meme Languages
 
 | Icon | Style | File | Copy Link |
+| :---: | :--- | :---: | :--- |
+| 👾 | **Leetspeak (1337)** | `leet.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/meme/leet.yml` |
+| 🎵 | **TikTok Kid** | `tiktok.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/meme/tiktok.yml` |
+| 😽 | **UwU** | `uwu.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/meme/uwu.yml` |
+
+---
+
+## <img src="https://i.imgur.com/5EmxevP.png" width="25" height="25" style="vertical-align: middle;"> exteraGram Emojies
+
+| Flag | Language | File | Install |
+| :---: | :--- | :---: | :--- |
+| 🇨🇳 | **Chinese** | `cn.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/cn.yml` |
+| 🇩🇪 | **German** | `de.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/de.yml` |
+| 🇺🇸 | **English** | `en.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/en.yml` |
+| 🇫🇷 | **French** | `fr.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/fr.yml` |
+| 🇯🇵 | **Japanese** | `jp.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/jp.yml` |
+| 🇷🇺 | **Russian** | `ru.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/ru.yml` |
+| 🇺🇦 | **Ukrainian** | `ua.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/ua.yml` |
+
+## 🎭 Meme & <img src="https://i.imgur.com/5EmxevP.png" width="25" height="25" style="vertical-align: middle;"> exteraGram Emojies
+| Flag | Language | File | Install |
 | :---: | :--- | :---: | :--- |
 | 👾 | **Leetspeak (1337)** | `leet.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/meme/leet.yml` |
 | 🎵 | **TikTok Kid** | `tiktok.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/meme/tiktok.yml` |
