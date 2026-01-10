@@ -31,5 +31,5 @@ To install a custom language pack, simply use the `.dllangpack` command followed
 | Icon | Style | File | Copy Link |
 | :---: | :--- | :---: | :--- |
 | 👾 | **Leetspeak (1337)** | `leet.yml` | `.dllangpack https://raw.githubusercontent.com/rarArchiv3/HerokuLangs/main/meme/leet.yml` |
-| 🎵 | **TikTok Style** | `tiktok.yml` | `.dllangpack https://raw.githubusercontent.com/rarArchiv3/HerokuLangs/main/meme/tiktok.yml` |
+| 🎵 | **TikTok Kid** | `tiktok.yml` | `.dllangpack https://raw.githubusercontent.com/rarArchiv3/HerokuLangs/main/meme/tiktok.yml` |
 | 😽 | **UwU** | `uwu.yml` | `.dllangpack https://raw.githubusercontent.com/rarArchiv3/HerokuLangs/main/meme/uwu.yml` |
