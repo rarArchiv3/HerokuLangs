@@ -1,7 +1,7 @@
-# 🌐 Кастомные языки для [Heroku](github.com/coddrago/Heroku)
+# 🌐 Кастомные языки для [Heroku](https://github.com/coddrago/Heroku)
 
 ## <img src="https://i.imgur.com/5EmxevP.png" width="25" height="25" style="vertical-align: bottom;"> Языки для exteraGram
-*Версии с поддержкой кастомных эмодзи без Premium для пользователей [exteraGram](t.me/exteraGram)*
+*Версии с поддержкой кастомных эмодзи без Premium для пользователей [exteraGram](https://t.me/exteraGram)*
 
 ### Основные языки
 | Язык | Код | Установка |
