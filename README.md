@@ -1,41 +1,35 @@
-# 🌐 Heroku Languages
+# 🌐 Кастомные языки для [Heroku](github.com/coddrago/Heroku)
 
-## 🎭 Meme Languages
+## <img src="https://i.imgur.com/5EmxevP.png" width="25" height="25" style="vertical-align: bottom;"> Языки для exteraGram
+*Версии с поддержкой кастомных эмодзи без Premium для пользователей [exteraGram](t.me/exteraGram)*
 
-| Icon | Style | Install |
-| :---: | :--- | :--- |
-| 👾 | **Leetspeak (EN)** | `.dllangpack https://raw.githubusercontent.com/coddrago/Heroku/dev/heroku/langpacks/leet.yml` |
-| 👾 | **Leetspeak (RU)** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/1337/ru.yml` |
-| 😎 | **TikTok Kid** | `.dllangpack https://raw.githubusercontent.com/coddrago/Heroku/dev/heroku/langpacks/tiktok.yml` |
-| 😽 | **UwU** | `.dllangpack https://raw.githubusercontent.com/coddrago/Heroku/dev/heroku/langpacks/uwu.yml` |
+### Основные языки
+| Язык | Код | Установка |
+| :--- | :---: | :--- |
+| **French** | `fr` | [Установить](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/general/fr.yml) |
+| **Japanese** | `jp` | [Установить](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/general/jp.yml) |
 
----
-&nbsp;
-
-## <img src="https://i.imgur.com/5EmxevP.png" width="25" height="25" style="vertical-align: bottom;"> exteraGram Emojies
-
-| Flag | Language | Install |
-| :---: | :--- | :--- |
-| 🇨🇳 | **Chinese** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/cn.yml` |
-| 🇩🇪 | **German** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/de.yml` |
-| 🇺🇸 | **English** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/en.yml` |
-| 🇫🇷 | **French** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/fr.yml` |
-| 🇯🇵 | **Japanese** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/jp.yml` |
-| 🇷🇺 | **Russian** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/ru.yml` |
-| 🇺🇦 | **Ukrainian** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/ua.yml` |
-
-## 🎭 Meme & <img src="https://i.imgur.com/5EmxevP.png" width="25" height="25" style="vertical-align: bottom;"> exteraGram Emojies
-| Flag | Language | Install |
-| :---: | :--- | :--- |
-| 👾 | **Leetspeak** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/meme/leet.yml` |
-| 😎 | **TikTok Kid** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/meme/tiktok.yml` |
-| 😽 | **UwU** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteraEmoji/meme/uwu.yml` |
+### Стили
+| Стиль | Языки | Ссылки |
+| :--- | :---: | :--- |
+| **1337** | `RU` \| `EN` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/1337/ru.yml) / [Установить EN](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/1337/en.yml) |
+| **UWU** | `RU` \| `EN` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/uwu/ru.yml) / [Установить EN](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/uwu/en.yml) |
+| **TikTok Kid** | `RU` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/tiktokkid/ru.yml) |
 
 ---
-&nbsp;
 
-## 🌐 Default Languages
+## 🔵 Языки для Telegram Premium
+*Версии для пользователей Telegram Premium*
 
-| Flag | Style | Copy Link |
-| :---: | :--- | :--- |
-| 🇨🇳 | **Chinese** | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/cn.yml` |
+### Основные
+| Язык | Код | Установка |
+| :--- | :---: | :--- |
+| **French** | `fr` | [Установить](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/general/fr.yml) |
+| **Japanese** | `ja` | [Установить](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/general/ja.yml) |
+
+### Стили
+| Стиль | Языки | Ссылки |
+| :--- | :---: | :--- |
+| **1337** | `RU` \| `EN` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/1337/ru.yml) / [Установить EN](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/1337/en.yml) |
+| **UWU** | `RU` \| `EN` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/uwu/ru.yml) / [Установить EN](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/uwu/en.yml) |
+| **TikTok Kid** | `RU` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/tiktokkid/ru.yml) |
